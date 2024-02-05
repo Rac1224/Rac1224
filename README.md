@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Rac1224
-- 👀 I’m interested in Data Science
+- 👩🏻‍🎓 I’m a senior majoring in Data Science at Univerity of Texas at Austin
 - 🌱 I’m currently learning Machine Learning, Data Engineering, Data Science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m actively looking for a summer internship 2024 right now
 - 📫 Reach me at 512-851-3158, or racheloong24@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I lived in three countries
+- ⚡ Fun fact: I lived in three countries 
 
 <!---
 Rac1224/Rac1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
