@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rac1224
 - 👩🏻‍🎓 I’m a senior majoring in Data Science at Univerity of Texas at Austin
 - 🌱 I’m currently learning Machine Learning, Data Engineering, Data Science
-- 💞️ I’m actively looking for a summer internship 2024 right now
+- 💞️ I’m actively looking for fall internship 2024
 - 📫 Reach me at 512-851-3158, or racheloong24@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I lived in three countries 
